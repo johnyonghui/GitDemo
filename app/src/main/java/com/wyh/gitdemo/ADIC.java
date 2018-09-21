@@ -1,4 +1,6 @@
 package com.wyh.gitdemo;
 
-public class ADIC {
+import android.support.v7.app.AppCompatActivity;
+
+public class ADIC extends AppCompatActivity{
 }
